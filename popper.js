@@ -71,10 +71,6 @@ class Popper {
                 elementStyle[s] = styles[s]
             }
         }
-
-        this.show = () => {
-            this.getDisplay().style.display = 'initial'
-        }
     }
 }
 
