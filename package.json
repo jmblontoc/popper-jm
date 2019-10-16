@@ -1,6 +1,6 @@
 {
     "name": "popper-jm",
-    "version": "1.1.82",
+    "version": "1.2.6",
     "description": "Lightweight feedback message library",
     "main": "popper.js",
     "scripts": {
